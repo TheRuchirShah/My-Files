@@ -9,9 +9,8 @@ Hi! 👋🏻 my name is Ruchir. I'm a web developer and designer and I like my p
 
 [![MyFiles Site Screenshot](include/readme-files/hero-image.png)](https://theruchirshah.github.io/My-Files/)
 
-<br/>
-Visit the site by clicking here [MyFiles](https://theruchirshah.github.io/My-Files) It is Completely Responsive site. You can view the site on any device Mobile, Tablet, Laptop, Desktop.
-<br/>
+Visit the site from here 👉🏻 [MyFiles](https://theruchirshah.github.io/My-Files)<br/> 
+It is Completely Responsive site. You can view the site on any device Mobile, Tablet, Laptop, Desktop.
 
 ![MyFiles Site Video](https://media.giphy.com/media/W36goaQ0CYIUXwmBLy/giphy.gif)
 
