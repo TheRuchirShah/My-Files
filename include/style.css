@@ -483,10 +483,13 @@ section .media::after {
 }
 .box img:hover {
     transform: scale(1.6);
+    transition: all 0.3s ease;
 }
 .box video:hover {
     transform: scale(1.8) !important;
-}.box .audio-image , .document-image{
+    transition: all 0.5s ease;
+}
+.box .audio-image , .document-image{
     pointer-events: none !important;
 }
 
