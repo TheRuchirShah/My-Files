@@ -1,7 +1,7 @@
 # My-Files
 Repository for hosting files.
 
-#### Repository for hosting files. I've created this website to use my files as global so I can access them for testing and demonstration.
+ **Repository for hosting files. I've created this website to use my files as global so I can access them for testing and demonstration.**
 
 [![MyFiles Site Screenshot](/include/readme-files/MyFiles-site-hero-image.png)](https://theruchirshah.github.io/My-Files/)
 
